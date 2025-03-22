@@ -122,7 +122,7 @@ void detectMotion(int rooms, int motion[]) {
     }
 }
 
-// Doors
+// Doors 
 void securitySystem(int rooms, int locks[]) {
     int room;
     printf("Enter room number to lock/unlock (1-%d): ", rooms);
